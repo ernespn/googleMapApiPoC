@@ -1,4 +1,4 @@
-This is your new Play 2.0 application
-=====================================
+Proof of concept of Google map API
 
-This file will be packaged with your application, when using `play dist`.
+The app is made using a play2.0 app but this is not needed to make it works as everything is done by Javascript.
+You can just go to <a href="Google_map_API_Proof_of_Concept.html">this link</a> to see how Google map API works.
